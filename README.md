@@ -1,3 +1,5 @@
+A way for people to time how long their sort functions take on an array. Does not use a compiler so that external servers or APIs are unneeded.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
